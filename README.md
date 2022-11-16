@@ -1,7 +1,6 @@
 # Intrusion Detection System Attack
 
 A Wasserstein Generative Adversarial Network (WGAN) is used to fool Intrusion detection systems (IDS) into believing that malicious network traffic is normal traffic.
-phat da o day
 
 ## Requirements
 
